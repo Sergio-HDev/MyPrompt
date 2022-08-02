@@ -1,0 +1,2 @@
+#!/bin/bash
+export PS1="\e[1;32m\t [\$\w]\e[m \e[1;35m>>>\e[m "
